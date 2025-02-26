@@ -12,8 +12,11 @@ The main objectives of the project are as follows:
 
 - Using DMA technology: The transfer of data between PS and PL will be done via DMA, allowing for fast and efficient data transfer between the two sections.
 
-  <img src="https://github.com/user-attachments/assets/10082521-1c77-4448-bb08-5db3d1491958" width=600> (Before)
-  <img src="https://github.com/user-attachments/assets/937fe249-75f2-4db5-b2d0-ef0b3cf6cd72" width=600> (After)
+  <img src="https://github.com/user-attachments/assets/10082521-1c77-4448-bb08-5db3d1491958" width=600>
+  (Before)
+  
+  <img src="https://github.com/user-attachments/assets/937fe249-75f2-4db5-b2d0-ef0b3cf6cd72" width=600> 
+  (After)
 
 **Projection and implementation**
 
